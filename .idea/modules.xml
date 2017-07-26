@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mergesort.iml" filepath="$PROJECT_DIR$/.idea/modules/mergesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mergesort_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mergesort_main.iml" group="mergesort" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mergesort_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mergesort_test.iml" group="mergesort" />
+    </modules>
+  </component>
+</project>
